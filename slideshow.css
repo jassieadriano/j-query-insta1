@@ -1,0 +1,27 @@
+    .slideshow_holder {
+        display: table;
+        margin: 0 auto !important;
+        text-align: center;
+    }
+    
+    ul#slideshow {
+        list-style-type: none;
+        overflow: auto;
+        margin: 10px 0 10px 10px;
+        text-align: center;
+    }
+
+    ul#slideshow li {
+       float: left;
+         display: inline;
+         margin: 0 6px 4px 0;
+    }
+
+    ul#slideshow li img {
+    	height: 75px;
+    	width: 75px;
+    	margin: 1px;
+        padding: 3px;
+        border: 1px solid #EEE;
+    }
+	

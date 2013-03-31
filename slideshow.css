@@ -12,7 +12,7 @@
     }
 
     ul#slideshow li {
-       float: left;
+    	 float: left;
          display: inline;
          margin: 0 6px 4px 0;
     }

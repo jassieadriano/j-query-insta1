@@ -11,7 +11,7 @@
 
             // set the defaults
             var defaults = {
-                instagram_id: 6855819,
+                instagram_id: 1239285631,
                 thumb_width: 100,
                 wrap_tag: 'li',
                 link_type: 'web',
